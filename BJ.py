@@ -344,8 +344,6 @@ while next_game:
         burn_three_cards()
 
     deal()
-    # dealer_cards = [('A',"\u2660")]
-    # player_cards = [(5,"\u2660"),(5,"\u2660")]
     print('player: ',[print_ver(x) for x in player_cards])
     print('dealer: ', [print_ver(x) for x in dealer_cards])
 
