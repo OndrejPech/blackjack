@@ -1,9 +1,9 @@
 This is  a text version of popular card game. Please find the rules bellow.
 I created this game without using Object Oriented Programming or external modules.
 
-You start with 100 points in chips. Minimal bet is 10, maximum is 200. No re-buy is allowed.
-When you have less than minimum bet, the game is over.
-You can split cards, double your bet, make insurance. No surrender is allowed.
+You start with 100 points in chips. Minimal bet is 10, maximum is 200. No re-buy is allowed./n
+When you have less than minimum bet, the game is over./n
+You can split cards, double your bet, make insurance. No surrender is allowed./n
 
 
 
